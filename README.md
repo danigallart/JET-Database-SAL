@@ -1,0 +1,1 @@
+This is a script written in Python sing the SAL API to retrieve data from JET's database for postprocessing purposes. This script uses data to check the Q (quality factor) of the fusion performance in several M21-17 experiments.
